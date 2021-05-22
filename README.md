@@ -2,15 +2,26 @@
 
 A new Flutter project.
 
-## Getting Started
+Aprendizado:
+aprendi a fazer o asstes de imagens
+Aprendi a criar a pasta core para separar imagens e fontes usando classes
+aprendi a usar o google_fonts
 
-This project is a starting point for a Flutter application.
+aprendi a usar a classe statefull
+aprendi a criar variaveis e listas para fazer o sorteio e apresentação dos resultados
+aprendi a criar uma função que contem um switch e dentro do switch tem um setState para alterar o elemento
 
-A few resources to get you started if this is your first Flutter project:
+aprendi a criar validação do ganhador com if e else
+aprendi a usar || &&
+aprendi a usar setState dentro desse if else
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+aprendi a usar o scaffold
+aprendi a fazer um container que dentro dele tem um BoxShadow(ou seja um quadrado com sombras ao lado e bordas arredondadas)
+dentro desse boxshadow eu criei o jogo jokenpo
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+aprendi a usar o SizedBox
+aprendi a usar Imagem e o que fazer quando uma imagem deve ser alterada quando acontecer uma ação
+
+aprendi a colocar imagens em uma row
+
+e o principal aprendi a usar o GestureDetector para poder colocar ação em uma imagem !
